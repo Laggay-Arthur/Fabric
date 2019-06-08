@@ -1,0 +1,13 @@
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\bin\x64\Release\Fabric.exe.config
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\bin\x64\Release\Fabric.exe
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\bin\x64\Release\Fabric.pdb
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\MainWindow.baml
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\MainWindow.g.cs
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\App.g.cs
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric_MarkupCompile.cache
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric.g.resources
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric.Properties.Resources.resources
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric.csproj.GenerateResource.cache
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric.csproj.CoreCompileInputs.cache
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric.exe
+C:\Users\Medoo\Documents\GitHub\Fabric\Fabric\obj\x64\Release\Fabric.pdb
